@@ -1,5 +1,5 @@
 # Churn_Analysis
-###Overview:
+### Overview:
 This project can show the insights for customer churn analysis of a telecommunication company.
 ### Scenario:
 The telecommunication company is trying to establish themselves in the USA. They are running a trial in Florida. New customers were able to use cellphones on the Teleconfia network at very low rates for one year. Not all customers stayed with Teleconfia for one year, many of them left. The company wants to tackle the problem of customer churn with marketing campaigns.
